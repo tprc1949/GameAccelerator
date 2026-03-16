@@ -3,6 +3,8 @@
 蓝泡加速器买断制模式：单游戏/应用永久加速，支持各种外服游戏，魔兽世界乌龟服、GitHub、Steam等。解决联机延迟、掉线问题，办公娱乐双覆盖。新用户专属链接注册免费领永久加速，老用户兑换口令：freeone
 
 ---
+性价比机场推荐 [https://github.com/tprc1949/cheap-vpn-airport](https://github.com/tprc1949/cheap-vpn-airport)
+---
 
 > 🐢 **养老玩家的福音** | 蓝泡加速器买断制 | 乌龟服/GitHub双加速 | 文末有白嫖福利
 
