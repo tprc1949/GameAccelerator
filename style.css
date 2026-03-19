@@ -629,20 +629,15 @@ body {
 }
 
 .nav-btn-register {
-    padding: 10px 20px;
     color: white;
-    border-radius: 8px;
     font-size: 14px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     gap: 8px;
-    position: relative;
     overflow: hidden;
     transition: all 0.3s ease;
     text-decoration: none;
-    margin-left: -1px;
-    background: none;
 }
 
 .btn-primary:hover {
