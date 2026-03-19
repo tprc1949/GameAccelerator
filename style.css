@@ -19,6 +19,10 @@
     padding: 0;
 }
 
+i.fas, i.fa {
+    font-style: normal;
+}
+
 .fa-fire-flame-curved::before {
     content: '🔥'
 }
@@ -38,8 +42,9 @@
 .fa-download::before {
     content: '👈'
 }
-i.fas {
-    font-style: normal;
+
+.fa-play-circle::before {
+    content: '▶️'
 }
 
 body {
@@ -616,14 +621,28 @@ body {
 .nav-btn-download:hover {
     background: linear-gradient(180deg, #3b82f6 0%, #60a5fa 100%);
     box-shadow: 0 0 10px 3px rgba(59, 130, 246, 0.3);
-}
-
-.nav-btn-download:hover i {
     transform: translateX(3px);
 }
 
 .nav-btn-download i {
     transition: transform 0.3s ease;
+}
+
+.nav-btn-register {
+    padding: 10px 20px;
+    color: white;
+    border-radius: 8px;
+    font-size: 14px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    margin-left: -1px;
+    background: none;
 }
 
 .btn-primary:hover {
