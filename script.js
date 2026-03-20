@@ -267,7 +267,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const container = document.querySelector(containerSelector);
 
         if (container) {
-            console.log('星空背景已找到，开始创建星星...');
+            // console.log('星空背景已找到，开始创建星星...');
 
             // 生成初始星星 - 立即在整个区域随机位置生成100颗
             for (let i = 0; i < 100; i++) {
