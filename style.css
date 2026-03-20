@@ -502,7 +502,6 @@ body {
 
 .text-foreveryc {
     background: linear-gradient(90deg, #2969ff, #87abff);
-    /*background: linear-gradient(90deg, #ffffff, #ffffff);*/
     background-clip: text;
     color: transparent;
     font-size: 40px;
@@ -642,7 +641,6 @@ body {
 
 .btn-primary:hover {
     opacity: 1;
-    /*透明度*/
     background: linear-gradient(180deg, #3b82f6 0%, #60a5fa 100%);
     box-shadow: 0 0 15px 5px rgba(59, 130, 246, 0.2);
 }
@@ -1243,9 +1241,9 @@ body {
 
 /* 火箭样式 */
 .rocket {
-    position: absolute;
     transform-origin: center;
     z-index: 5;
+    margin-left: 50px;
 }
 
 /* Hero区域特定的fade-in样式 */
@@ -1604,6 +1602,37 @@ body {
     position: absolute;
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.8));
     transform-origin: top center;
+    pointer-events: none;
+    z-index: 1;
+    animation-play-state: running !important;
+}
+
+/* 星星闪烁动画 */
+@keyframes twinkle {
+
+    0%,
+    100% {
+        opacity: 0.3;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: 1;
+        transform: scale(1.2);
+    }
+}
+
+/* 流星划过动画 */
+@keyframes meteorFall {
+    0% {
+        transform: translateX(0) translateY(0) rotate(-45deg);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateX(-300px) translateY(300px) rotate(-45deg);
+        opacity: 0;
+    }
 }
 
 /* hero区域右侧图片动画状态 */
