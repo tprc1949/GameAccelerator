@@ -1,4 +1,4 @@
-[https://www.lpjsq.cn/ZUIzhucetui.php?freeone](https://boost.xuehuayu.cn/)
+[https://www.lpjsq.cn/ZUIzhucetui.php?freeone](https://dwz.zzmy.dpdns.org/LOkqyD)
 蓝泡加速器，按游戏一次付费永久买断。使用此专属链接注册，可以免费购买一个游戏永久加速。已经注册的用户可在蓝泡加速器客户端，点击“口令/卡密兑换” 输入`freeone`即可。
 
 在数字化时代，网络加速已成为开发者与游戏玩家的刚需。然而，传统加速器“包月付费、闲置浪费、功能单一”的痛点长期存在。蓝泡加速器以“买断制”模式破局，不仅覆盖游戏加速，更首创办公平台加速，为用户带来“一次付费、永久高效”的全新体验。
